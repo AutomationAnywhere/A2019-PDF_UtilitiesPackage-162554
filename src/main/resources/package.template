@@ -1,0 +1,10 @@
+{
+  "name": "PDFUtils",
+  "label": "PDFUtils",
+  "description": "Provides actions for PDF operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
